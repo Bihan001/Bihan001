@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bihan001" alt="bihan001" /></a> </p>
 
-- Portfolio [bihan-chakraborty.web.app](bihan-chakraborty.web.app)
+- Portfolio [bihan.me](bihan.me)
 
 - Email **bhchakraborty001@gmail.com**
 
